@@ -332,7 +332,7 @@ Enter your choice:
 
 The following screenshot shows the actual output of the **Modular & Packager** project.
 
-![Modular & Packager Project Output](project_output.png)
+![Modular & Packager Project Output](output.png)
 
 The output demonstrates the working of:
 
